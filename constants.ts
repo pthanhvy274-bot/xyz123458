@@ -1,10 +1,11 @@
+
 // Data for Slide 3 (Supply vs Demand)
 export const LAND_DATA = [
-  { name: '2020', value: 3.3 },
-  { name: '2021', value: 3.5 },
-  { name: '2022', value: 3.4 },
-  { name: '2023', value: 3.6 },
-  { name: '2024', value: 3.7 },
+  { name: '2020', value: 3.4 },
+  { name: '2021', value: 3.4 },
+  { name: '2022', value: 3.5 },
+  { name: '2023', value: 3.68 },
+  { name: '2024', value: 3.45 },
 ];
 
 // Data for Slide 6 (Polarization)
