@@ -133,7 +133,7 @@ export const Slide7: React.FC<SlideProps> = ({ step }) => {
 
             {/* Highlight 2022 */}
             <motion.div 
-               className="absolute top-10 left-[62%] w-24 h-64 border-2 border-yellow-400 rounded-lg bg-yellow-400/10"
+               className="absolute top-10 left-[67%] w-24 h-64 border-2 border-yellow-400 rounded-lg bg-yellow-400/10"
                initial={{ opacity: 0, scale: 1.1 }}
                animate={{ opacity: [0.5, 1, 0.5] }}
                transition={{ repeat: Infinity, duration: 2 }}
