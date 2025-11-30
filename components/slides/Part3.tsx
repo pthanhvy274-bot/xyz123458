@@ -119,8 +119,8 @@ export const Slide10: React.FC<SlideProps> = ({ step }) => {
         </div>
 
         <div className="mt-8 text-center">
-           <span className="bg-blue-900/50 text-blue-300 px-4 py-2 rounded mr-4">Step 1: 练20-21 -> 测22</span>
-           <span className="bg-blue-900/50 text-blue-300 px-4 py-2 rounded">Step 2: 练20-22 -> 测23</span>
+           <span className="bg-blue-900/50 text-blue-300 px-4 py-2 rounded mr-4">Step 1: 练20-21 &rarr; 测22</span>
+           <span className="bg-blue-900/50 text-blue-300 px-4 py-2 rounded">Step 2: 练20-22 &rarr; 测23</span>
         </div>
       </div>
     </SlideLayout>
